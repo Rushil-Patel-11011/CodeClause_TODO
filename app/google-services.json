@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067211779986",
+    "project_id": "codeclause-todo-app",
+    "storage_bucket": "codeclause-todo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067211779986:android:4c35ccc3df6ec7666c5b4b",
+        "android_client_info": {
+          "package_name": "com.rushil.codeclause_todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067211779986-3hmjj95tneaqq1i8dev94phdpegm3guk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuvRWM7S8sxbkOVAGbl5QRlln10D0fdgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067211779986-3hmjj95tneaqq1i8dev94phdpegm3guk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
